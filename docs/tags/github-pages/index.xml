@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github Pages on Personal site of Peter White</title>
+    <link>https://peterwhite.pw/tags/github-pages/</link>
+    <description>Recent content in Github Pages on Personal site of Peter White</description>
+    <generator>Hugo</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Mon, 02 Jul 2018 00:58:14 +0100</lastBuildDate>
+    <atom:link href="https://peterwhite.pw/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Registering a Domain</title>
+      <link>https://peterwhite.pw/post/registering-a-domain/</link>
+      <pubDate>Mon, 02 Jul 2018 00:58:14 +0100</pubDate>
+      <guid>https://peterwhite.pw/post/registering-a-domain/</guid>
+      <description>Oops, must have forgotten about this blog. Well, fear not, here&amp;rsquo;s a fresh update.&#xA;I&amp;rsquo;ve just gone through the procedure of registering a domain with Namecheap, which was surprisingly easy. Next stage was to integrate this with my existing GitHub Pages setup, which I&amp;rsquo;m sure would throw a few wobblies, but nope, that was also easy enough.&#xA;I basically followed these docs on Namecheap and GitHub and voila, I had everything setup.</description>
+    </item>
+    <item>
+      <title>The Joys Of Setting Up A Site</title>
+      <link>https://peterwhite.pw/post/the-joys-of-setting-up-a-site/</link>
+      <pubDate>Fri, 04 Aug 2017 00:33:36 +0100</pubDate>
+      <guid>https://peterwhite.pw/post/the-joys-of-setting-up-a-site/</guid>
+      <description>Update (02-07-2018): So it seems like the docs have been updated and a new way of publishing GitHub Pages through a /docs/ folder is available. I&amp;rsquo;ve gone with this approach instead, which puts the Hugo config and published content in the same repo, which may not be ideal, but hey, it&amp;rsquo;s better than what I had before. New site, new technology to generate it, what could go wrong?! As it turns out, quite a bit.</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://peterwhite.pw/post/welcome/</link>
+      <pubDate>Wed, 02 Aug 2017 23:35:42 +0100</pubDate>
+      <guid>https://peterwhite.pw/post/welcome/</guid>
+      <description>So a new personal website has found its way onto the internet. This will probably be forgotten about in short order, but who knows, I might surprise myself and actually maintain this. At least I&amp;rsquo;m hosting it on GitHub Pages so my wallet won&amp;rsquo;t be decimated.&#xA;For those who may be interested, this site was built using Hugo and hosted on GitHub Pages, a nice and free way to host your own site.</description>
+    </item>
+  </channel>
+</rss>

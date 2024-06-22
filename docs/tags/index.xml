@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Personal site of Peter White</title>
+    <link>https://peterwhite.pw/tags/</link>
+    <description>Recent content in Tags on Personal site of Peter White</description>
+    <generator>Hugo</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Sun, 19 Jan 2020 18:31:00 +0000</lastBuildDate>
+    <atom:link href="https://peterwhite.pw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventure</title>
+      <link>https://peterwhite.pw/tags/adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/adventure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backpacking</title>
+      <link>https://peterwhite.pw/tags/backpacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/backpacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Zealand</title>
+      <link>https://peterwhite.pw/tags/new-zealand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/new-zealand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>https://peterwhite.pw/tags/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Australia</title>
+      <link>https://peterwhite.pw/tags/australia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/australia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture Shock</title>
+      <link>https://peterwhite.pw/tags/culture-shock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/culture-shock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Domain</title>
+      <link>https://peterwhite.pw/tags/domain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/domain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github Pages</title>
+      <link>https://peterwhite.pw/tags/github-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://peterwhite.pw/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://peterwhite.pw/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://peterwhite.pw/tags/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterwhite.pw/tags/first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

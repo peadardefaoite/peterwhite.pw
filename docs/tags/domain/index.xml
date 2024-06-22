@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain on Personal site of Peter White</title>
+    <link>https://peterwhite.pw/tags/domain/</link>
+    <description>Recent content in Domain on Personal site of Peter White</description>
+    <generator>Hugo</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Mon, 02 Jul 2018 00:58:14 +0100</lastBuildDate>
+    <atom:link href="https://peterwhite.pw/tags/domain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Registering a Domain</title>
+      <link>https://peterwhite.pw/post/registering-a-domain/</link>
+      <pubDate>Mon, 02 Jul 2018 00:58:14 +0100</pubDate>
+      <guid>https://peterwhite.pw/post/registering-a-domain/</guid>
+      <description>Oops, must have forgotten about this blog. Well, fear not, here&amp;rsquo;s a fresh update.&#xA;I&amp;rsquo;ve just gone through the procedure of registering a domain with Namecheap, which was surprisingly easy. Next stage was to integrate this with my existing GitHub Pages setup, which I&amp;rsquo;m sure would throw a few wobblies, but nope, that was also easy enough.&#xA;I basically followed these docs on Namecheap and GitHub and voila, I had everything setup.</description>
+    </item>
+  </channel>
+</rss>

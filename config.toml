@@ -1,0 +1,56 @@
+baseurl = "https://peterwhite.pw/"
+languageCode = "en-ie"
+title = "Personal site of Peter White"
+theme = "blackburn-master"
+publishDir = "docs"
+
+paginate = 10
+#disableKinds = ["RSS"]
+
+[indexes]
+	tag = "tags"
+
+[params]
+  author = "Peter White"
+  subtitle = "Hey, that rhymes!"
+  useAvatar = false
+  brand = "home"
+  dateFormat = "02 Jan, 2006"
+  highlightjs = "monokai"
+  highlightjs_extra_languages = ["yaml", "bash", "shell"]
+  keywords = "blog,personal,software,engineer,travels,peter,white,jobs,backpacking,applied,mathematics"
+  description = "Personal blog of Peter White"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "posts"
+    pre = "<i class='fas fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "about"
+    pre = "<i class='fas fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "tags"
+    pre = "<i class='fas fa-tags fa-fw'></i>"
+    weight = 4
+    identifier = "tags"
+    url = "/tags/"
+  [[menu.main]]
+    name = "email"
+    pre = "<i class='fas fa-envelope fa-fw'></i>"
+    weight = 5
+    identifier = "Email"
+    url = "mailto:contact@peterwhite.pw"
+	
+[social]
+  # Link your social networking accounts to the side menu by entering your username or ID.
+  linkedin = "peadardefaoite"
+  github = "peadardefaoite"
+  boardgamegeek = "peadardefaoite"
+  lastfm = "CenturionRonin"

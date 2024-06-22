@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Post on Personal site of Peter White</title>
+    <link>https://peterwhite.pw/tags/first-post/</link>
+    <description>Recent content in First Post on Personal site of Peter White</description>
+    <generator>Hugo</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Wed, 02 Aug 2017 23:35:42 +0100</lastBuildDate>
+    <atom:link href="https://peterwhite.pw/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://peterwhite.pw/post/welcome/</link>
+      <pubDate>Wed, 02 Aug 2017 23:35:42 +0100</pubDate>
+      <guid>https://peterwhite.pw/post/welcome/</guid>
+      <description>So a new personal website has found its way onto the internet. This will probably be forgotten about in short order, but who knows, I might surprise myself and actually maintain this. At least I&amp;rsquo;m hosting it on GitHub Pages so my wallet won&amp;rsquo;t be decimated.&#xA;For those who may be interested, this site was built using Hugo and hosted on GitHub Pages, a nice and free way to host your own site.</description>
+    </item>
+  </channel>
+</rss>

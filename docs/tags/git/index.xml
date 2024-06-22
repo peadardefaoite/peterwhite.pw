@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Personal site of Peter White</title>
+    <link>https://peterwhite.pw/tags/git/</link>
+    <description>Recent content in Git on Personal site of Peter White</description>
+    <generator>Hugo</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Fri, 04 Aug 2017 00:33:36 +0100</lastBuildDate>
+    <atom:link href="https://peterwhite.pw/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Joys Of Setting Up A Site</title>
+      <link>https://peterwhite.pw/post/the-joys-of-setting-up-a-site/</link>
+      <pubDate>Fri, 04 Aug 2017 00:33:36 +0100</pubDate>
+      <guid>https://peterwhite.pw/post/the-joys-of-setting-up-a-site/</guid>
+      <description>Update (02-07-2018): So it seems like the docs have been updated and a new way of publishing GitHub Pages through a /docs/ folder is available. I&amp;rsquo;ve gone with this approach instead, which puts the Hugo config and published content in the same repo, which may not be ideal, but hey, it&amp;rsquo;s better than what I had before. New site, new technology to generate it, what could go wrong?! As it turns out, quite a bit.</description>
+    </item>
+  </channel>
+</rss>
