@@ -5,31 +5,31 @@
 </a>
 <div id="menu">
 
-  {{ partial "brand.html" . }}
+  {{- partial "brand.html" . -}}
 
   <div class="pure-menu">
     <ul class="pure-menu-list">
-      {{ range .Site.Menus.main }}
+      {{ range .Site.Menus.main -}}
       {{ if .HasChildren }}
         <li class="pure-menu-item pure-menu-has-children">
           <a class="pure-menu-link" href="#">{{ .Pre }}{{ .Name }}</a>
           <ul class="pure-menu-children">
-            {{ range .Children }}
+            {{ range .Children -}}
             <li class="pure-menu-item">
               <a class="pure-menu-link" href="{{ .URL }}">{{ .Name }}</a>
             </li>
-            {{ end }}
+            {{ end -}}
           </ul>
-      {{else}}
+      {{ else -}}
         <li class="pure-menu-item">
           <a class="pure-menu-link" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
-      {{end}}
+      {{ end -}}
         </li>
-      {{end}}
+      {{ end -}}
     </ul>
   </div>
 
-  {{ partial "social.html" . }}
+  {{- partial "social.html" . -}}
 
-  {{ partial "copyright.html" . }}
+  {{- partial "copyright.html" . -}}
 </div>

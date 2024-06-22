@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "header.html" . -}}
 
 <div class="header">
   <h1>{{ .Title }}</h1>
@@ -6,12 +6,12 @@
 </div>
 
 <div class="content">
-  {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
-    {{ .Render "summary"}}
-  {{ end }}
+  {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages -}}
+    {{ .Render "summary" -}}
+  {{ end -}}
 
-  {{ partial "pagination.html" . }}
+  {{ partial "pagination.html" . -}}
 
 </div>
 
-{{ partial "footer.html" . }}
+{{ partial "footer.html" . -}}

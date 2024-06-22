@@ -1,15 +1,15 @@
-{{ define "main" }}
+{{- define "main" -}}
   <main>
       {{ .Content }}
           <ul class="contents">
-          {{ range .Paginator.Pages }}
+          {{ range .Paginator.Pages -}}
               <li>{{.Title}}
                   <div>
                     {{ partial "summary.html" . }}
                   </div>
               </li>
-          {{ end }}
+          {{- end }}
           </ul>
-      {{ partial "pagination.html" . }}
+      {{- partial "pagination.html" . }}
   </main>
-{{ end }}
+{{- end -}}

@@ -8,8 +8,10 @@ paginate = 10
 #disableKinds = ["RSS"]
 
 [indexes]
-	tag = "tags"
+  tag = "tags"
 
+[outputs]
+  home = ['html', 'rss']
 [params]
   author = "Peter White"
   subtitle = "Hey, that rhymes!"
@@ -49,8 +51,6 @@ paginate = 10
     url = "mailto:contact@peterwhite.pw"
 	
 [social]
-  # Link your social networking accounts to the side menu by entering your username or ID.
   linkedin = "peadardefaoite"
   github = "peadardefaoite"
-  boardgamegeek = "peadardefaoite"
   lastfm = "CenturionRonin"
